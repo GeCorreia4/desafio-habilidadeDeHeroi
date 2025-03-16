@@ -51,10 +51,10 @@ Clone este repositório:
 ``git clone https://github.com/GeCorreia4/desafio-habilidadeDeHeroi.git``
 
 Acesse o diretório do projeto:
-``cd desafio-jogo``
+``cd desafio-habilidadeDeHeroi``
 
 Execute o código em um ambiente Node.js:
-``node jogo.js``
+``node desafio.js``
 
 ## 📜 Licença
 
