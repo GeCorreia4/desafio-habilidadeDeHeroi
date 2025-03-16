@@ -19,6 +19,6 @@ class Hero {
     }
 }
 
-const heroAbility = new Hero("Gabriel", 71, "monge");
+const hero = new Hero("Gabriel", 71, "monge");
 
-heroAbility.atacar();
+hero.atacar();

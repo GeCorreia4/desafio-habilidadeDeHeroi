@@ -38,8 +38,8 @@ Utilizar conceitos como:
 
 <b>Entrada:</b>
 ``` js
-const heroi = new Heroi("Merlin", 150, "mago");
-heroi.atacar();
+const hero = new Hero("Merlin", 150, "mago");
+hero.atacar();
 ```
 <b>Saída:</b>
 ``` js
